@@ -1,6 +1,6 @@
 # Rancid Tomatillos : Movie Viewer
 
-For this project, the goal of was to create a React application that allows users to browse through a collection of movies and see what peaks their interest. They may also sort movies from best to worst by rating, and vice versa with the click of a button. Users can click on a specific movie from the home page and the movie's details will render to a second page. The user can use the functional back arrow or click the Home button to return to the home page. Check it out the project [deployed on Heroku here](https://rancid-tomatillos-movie-viewer.herokuapp.com/) !
+For this project, the goal of was to create a React application that allows users to browse through a collection of movies and see what peaks their interest. They may also sort movies from best to worst by rating, and vice versa with the click of a button. Users can click on a specific movie from the home page and the movie's details will render to a second page. The user can use the functional back arrow or click the Home button to return to the home page. Check out the project [deployed on Heroku here](https://rancid-tomatillos-movie-viewer.herokuapp.com/) !
 
 ### Table of Contents
 - [Project Specs](#project-specs)
